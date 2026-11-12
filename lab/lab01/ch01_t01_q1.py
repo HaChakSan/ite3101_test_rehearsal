@@ -6,6 +6,6 @@ def main():
     except ValueError:
        print('please enter an integer.')
 
-if num % 10 == "__main__":
+if num % 10 == "0 and num__":
     # execute only if run as a script
     main()
