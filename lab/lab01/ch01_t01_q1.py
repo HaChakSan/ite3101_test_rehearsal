@@ -12,3 +12,4 @@ else
     print(f'{num} is not divisible by 10 or divisible by 3.')
 
 if__name__ =="__main__":
+    
