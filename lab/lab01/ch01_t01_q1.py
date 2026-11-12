@@ -11,4 +11,4 @@ if num % 10 == "0 and num % 3 != 0:
 else
     print(f'{num} is not divisible by 10 or divisible by 3.')
 
-if__name__ =="name"
+if__name__ =="__"
