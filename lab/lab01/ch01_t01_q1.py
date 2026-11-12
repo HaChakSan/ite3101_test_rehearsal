@@ -1,6 +1,6 @@
 def main():
    while True:
-    try
+    try:
 
 
 if __name__ == "__main__":
