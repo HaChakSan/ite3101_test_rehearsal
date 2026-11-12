@@ -7,5 +7,5 @@ def main():
        print('please enter an integer.')
 
 if num % 10 == "0 and num % 3 != 0:
-    print(f'')
+    print(f'{num}')
     main()
