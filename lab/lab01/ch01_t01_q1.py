@@ -7,5 +7,5 @@ def main():
        print('please enter an integer.')
 
 if num % 10 == "0 and num % 3 != 0:
-    print(f'{num} is divis')
+    print(f'{num} is divisible by 10 and not divisible by  3')
     main()
